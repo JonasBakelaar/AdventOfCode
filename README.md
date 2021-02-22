@@ -1,7 +1,7 @@
 # AdventOfCode2020
 These are my solutions to the 2020 Advent Of Code coding challenges.
 
-Each day, a new challenge was released. I am to complete all of these challenges by the end of January.
+Each day, a new challenge was released. I aim to complete these challenges when I can.
 
 # Languages Used
 
